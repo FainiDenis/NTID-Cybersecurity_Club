@@ -6,8 +6,10 @@ Update the system to the latest version by running
 #### 2. Install and Configure Firewall
 Install firewall to system by running
 - [ ] `sudo apt install ufw`
+
 Enable firewall  by running
 - [ ] `sudo ufw enable`
+
 Allow incoming SSH connection by running
 - [ ] `sudo ufw allow ssh`
 
